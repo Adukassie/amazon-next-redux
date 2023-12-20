@@ -20,9 +20,6 @@ export default async function Home() {
   console.log("Number of  Products :", products.length);
   return (
     <div className="bg-gray-100 ">
-      <Head>
-        <title>Amazon 2.0</title>
-      </Head>
       <Header />
       {/* <Banner /> */}
       <Banner />
