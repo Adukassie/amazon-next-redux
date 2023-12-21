@@ -12,7 +12,7 @@ function Header() {
       {/* Top nav */}
       <div className="flex items-center bg-amazon_blue p-2 flex-grow py-2">
         <div className="mt-2 flex items-center flex-grow sm:flex-grow-0">
-          <Link href="https://nextjs.org">
+          <Link href="https://amazon.com">
             <Image
               className="cursor-pointer "
               src="https://links.papareact.com/f90"

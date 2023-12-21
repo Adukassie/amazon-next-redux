@@ -14,8 +14,8 @@ module.exports = {
     extend: {
       colors: {
         amazon_blue: {
-          light: "#232F3E",
-          DEFAULT: "#131921",
+          light: "#195851",
+          DEFAULT: "#0e3d30",
         },
       },
     },
@@ -24,7 +24,7 @@ module.exports = {
     extend: {},
   },
   plugins: [
-    require("@tailwindcss/line-clamp"),
+    // require("@tailwindcss/line-clamp"),
     // ...
   ],
 };
